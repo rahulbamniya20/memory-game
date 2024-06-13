@@ -26,7 +26,7 @@ A classic memory game built with HTML, CSS, and JavaScript, where players flip c
    ```
 3. Open the `index.html` file in your preferred web browser.
 
-   ## How to Play
+## How to Play
 
 1. Click on any two cards to flip them over and reveal their images.
 2. If the two revealed images match, the cards will remain face-up, and you will earn a point.
