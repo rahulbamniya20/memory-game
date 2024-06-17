@@ -1,6 +1,6 @@
 # Memory Game
 
-A classic memory game built with HTML, CSS, and JavaScript, where players flip cards to match pairs and earn points. The objective is to complete the game with the minimum number of flips.
+A classic memory game built with HTML, CSS, and JavaScript, where players flip cards to match pairs and earn points. The objective is to complete the game with the minimum number of moves.
 
 
 ## Getting Started
